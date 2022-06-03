@@ -2,11 +2,11 @@
 
 This is my  repository for exercises in cs50x 2022.
 
-Week6
+Week6 - Python
 
 - lab6: tournament
 
-- problem sets
+- problem sets 6
 
   - Hello
 
