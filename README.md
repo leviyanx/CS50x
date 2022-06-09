@@ -6,7 +6,7 @@ Week6 - Python
 
 - lab6: tournament
 
-- problem sets 6
+- psets6
 
   - Hello
 
@@ -14,4 +14,8 @@ Week6 - Python
 
   - Credit
 
+  - Readability
+  
+  - DNA
+  
     
